@@ -24,6 +24,7 @@
   color: #ffffff;
   border: none;
   border-radius: 2px;
+  transition : 0.2s;
 }
 
 .btn-outline{
