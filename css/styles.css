@@ -5,6 +5,8 @@
   --secondary-color: #058b00;
   --dark-color: #276602;
   --light-color: #ffffff;
+  --success-color: #5cb85c;
+  --error-color: #d9534f;
 }
 
 *{
