@@ -179,6 +179,13 @@ img{
   border-radius: 4px;
 }
 
+code , pre{
+  background: #333;
+  color: #ffffff;
+  padding: 10px;
+  border-radius: 5px;
+}
+
 /* CLOUD */
 .cloud .grid{
   grid-template-columns: 4fr 3fr;
