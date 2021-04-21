@@ -192,6 +192,11 @@ code , pre{
   border-radius: 5px;
 }
 
+.hidden{
+  visibility: hidden;
+  height: 0;
+}
+
 /* CLOUD */
 .cloud .grid{
   grid-template-columns: 4fr 3fr;
