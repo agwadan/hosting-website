@@ -1,5 +1,11 @@
+/* DOCS */
 .docs-main h3{
   margin: 20px 0;
+}
+
+.docs-head img{
+  width: 200px;
+  justify-self: flex-end;
 }
 
 .docs-main .grid{

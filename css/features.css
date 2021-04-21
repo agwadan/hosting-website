@@ -1,7 +1,6 @@
 /* FEATURES */
 
-.features-head img,
-.docs-head img{
+.features-head img{
   width: 200px;
   justify-self: flex-end;
 }
